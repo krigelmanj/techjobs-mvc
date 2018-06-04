@@ -1,4 +1,4 @@
-buildscript {
+de4rfw	7buildscript {
 	ext {
 		springBootVersion = '1.4.4.RELEASE'
 	}
@@ -37,4 +37,4 @@ dependencies {
 
 bootRun {
 	addResources = true
-}
+}4 
